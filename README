@@ -1,3 +1,10 @@
+We are messing the merger but it is becoming a pain
 This project is seroiusly awesome
 This project will help me learn git
+<<<<<<< HEAD
 Let us mess the merger so big
+=======
+
+
+This is for messing up the merger to test conflicts
+>>>>>>> foo_feature
